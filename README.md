@@ -9,6 +9,7 @@ Un projet personnel à la croisée de la fabrication 3D, de la mécanique et de 
 ## Démonstrations
 
 https://youtube.com/shorts/PJCwagXmEXo?is=03ZIC-VOqqUccLhi
+
 La vidéos présentent le prototype en fonctionnement. Le développement du projet se poursuit.
 
 ## Démarche de fabrication
